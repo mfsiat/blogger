@@ -25,5 +25,7 @@ A simple blog project created with laravel php. [Click here to view the complete
 - **Blog**: This page shows all my blog posts. Well the main reason for creating this blog or website. [This feature has become obsolete due to my hosting platform issue]() 
 
     
+## Extras 
 
+- Add the *CLIENT_ID* & *CLIENT_SECRET* for github search api
 
