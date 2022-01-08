@@ -59,7 +59,7 @@ a:hover {
   <main class="container">
     <!-- Bio  -->
     <section class="card">
-      <img src="img/pt.JPG" alt="" />
+      <img src="img/pt.png" alt="" />
       <div>
         <h3>Hello, this is me</h3>
         <p>
@@ -112,11 +112,11 @@ a:hover {
         <ul>
           <li>
             <i class="fa fa-hand-o-right" aria-hidden="true"></i>
-            <a href="http://nasirblog.000webhostapp.com/" target="_blank">Personal Website</a>
+            <a href="https://nasirblog.000webhostapp.com/" target="_blank">Personal Website</a>
           </li>
           <li>
             <i class="fas fa-blog" aria-hidden="true"></i>
-            <a href="http://nasirblog.epizy.com/" target="_blank">Blog</a>
+            <a href="https://nasirblog.epizy.com/" target="_blank">Blog</a>
           </li>
           <li>
             <i class="fab fa-blogger" aria-hidden="true"></i>
@@ -136,7 +136,7 @@ a:hover {
     </section>
     <!-- Education info  -->
     <section class="card" data-aos="fade-left">
-      <img src="img/edu.jfif" alt="" />
+      <img src="img/edu.png" alt="" />
       <div>
         <h3>Education</h3>
         <ul>
@@ -160,7 +160,7 @@ a:hover {
       </div>
     </section>
     <section class="card" data-aos="fade-right">
-      <img src="img/skills.jpg" alt="" />
+      <img src="img/skills.png" alt="" />
       <div>
         <h3>Skills</h3>
         <h4>Programming Languages</h4>
@@ -197,7 +197,7 @@ a:hover {
         <h4>BusKoi</h4>
         <p>
           An android app which shows the users location and seat vacancy of
-          public Transport via an IOT device. 
+          public Transport via an IOT device.
         </p>
         <i class="fab fa-github"></i
         ><a href="https://github.com/mfsiat/BusKoi" target="_blank"> GitHub link</a>
