@@ -211,7 +211,7 @@ a:hover {
         <h4>Blogger</h4>
         <p>My blog made in <strong>laravel, MySQL, HTML</strong>.</p>
         <i class="fab fa-chrome"></i>
-        <a href="http://nasirblog.000webhostapp.com/" target="_blank"> Live link</a>
+        <a href="https://nasirblog.000webhostapp.com/" target="_blank"> Live link</a>
         <h4>Lets_chat</h4>
         <p>
           A simple chat application, where users can log in to separate room
